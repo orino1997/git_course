@@ -1,5 +1,4 @@
 print("Hello");
-print(" ");
 print("world");
 print("!");
 print("fuck off")
